@@ -16,7 +16,7 @@ body {
 body {
   display: grid;
   place-items: center;
-  background-color: hsl(33, 100%, 98%);
+  background-color: hsl(27, 66%, 92%);
 }
 li {
   list-style-type: none;
